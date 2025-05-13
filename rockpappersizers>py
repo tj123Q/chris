@@ -1,0 +1,9 @@
+import random
+// random 
+def rock_paper_scissors():
+    choices=["rock","paper","sicissors"]
+# get the player choice
+player_choice=input("Enter rock,paper, or scissors: ")lower()
+#validate player input
+if player_choice not in choicese:
+    print("invalid choice, please try agen")return
