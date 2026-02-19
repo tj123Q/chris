@@ -1,8 +1,7 @@
-i = 0
-while i <= 101:
+# i = 1
+# while i < 101:
+#     print(i)
+#     i += 2
+
+for i in range(50 , 1001 , 3 ):
     print(i)
-    i == 0
-
-
-
-
